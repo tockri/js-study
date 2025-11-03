@@ -1,0 +1,14 @@
+{
+  "name": "1-value-and-object",
+  "version": "1.0.0",
+  "description": "値とオブジェクト",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^4.0.6"
+  }
+}
